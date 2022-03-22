@@ -35,10 +35,3 @@ Demo:
 
 ###### brain-prime (demo)
 <a href="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss" target="_blank"><img src="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss.svg" width="200"/></a>
-
-###### Asciinema records:
-* [brain-even](https://asciinema.org/a/SreOBmoihFB75S2oSgmBCoNns)
-* [brain-calc](https://asciinema.org/a/E8FauCp0Uz355OLUBTFtrexOO)
-* [brain-gcd](https://asciinema.org/a/6mmSFEFIMy7GYtbMzXDiCvM0z)
-* [brain-progression](https://asciinema.org/a/gpUnMK317UojjjGcL4zQBvsae)
-* [brain-prime](https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss)
