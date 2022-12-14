@@ -41,7 +41,7 @@ $ brain-prime
 ```
 ### Demonstration
 ###### brain-even (demo)
-```Answer is even given numbers or not```
+```Answer are even given numbers or not```
 
 <a href="https://asciinema.org/a/SreOBmoihFB75S2oSgmBCoNns" target="_blank"><img src="https://asciinema.org/a/SreOBmoihFB75S2oSgmBCoNns.svg" width="200"/></a>
 
@@ -61,6 +61,6 @@ $ brain-prime
 <a href="https://asciinema.org/a/gpUnMK317UojjjGcL4zQBvsae" target="_blank"><img src="https://asciinema.org/a/gpUnMK317UojjjGcL4zQBvsae.svg" width="200"/></a>
 
 ###### brain-prime (demo)
-``` Answer is prime given numbers or not ```
+``` Answer are prime given numbers or not ```
 
 <a href="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss" target="_blank"><img src="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss.svg" width="200"/></a>
