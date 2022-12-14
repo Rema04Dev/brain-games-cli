@@ -7,13 +7,13 @@
 # cli-brain-games 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/273/096/51c.gif">
 
-##### Project description
+### Project description
 This is a set of simple math games with command-line interface. You can find more details in the demonstration section below.
 
 ###### system requirements:
 Node 14.x version at least
 
-##### Install
+### Install
 ```bash
 # clone this repository to your machine
 $git clone git@github.com:Rema04Dev/cli-brain-games.git
@@ -30,7 +30,7 @@ $npm ci
 $npm link
 ```
 
-##### Run games
+### Run games
 Run one of these commands and enjoy!
 ```
 $ brain-even
@@ -56,8 +56,10 @@ $ brain-prime
 
 ###### brain-progression (demo)
 ``` Answer what number is missing in math progression ```
+
 <a href="https://asciinema.org/a/gpUnMK317UojjjGcL4zQBvsae" target="_blank"><img src="https://asciinema.org/a/gpUnMK317UojjjGcL4zQBvsae.svg" width="200"/></a>
 
 ###### brain-prime (demo)
 ``` Answer is prime given numbers or not ```
+
 <a href="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss" target="_blank"><img src="https://asciinema.org/a/IfF0BS1rulfMu4pcafdeV9uss.svg" width="200"/></a>
