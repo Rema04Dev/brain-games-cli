@@ -14,7 +14,16 @@
 
 ---
 
-This is a set of simple math games with command-line interface. You can find more details in the demonstration section below.
+This is a set of five simple math games with command-line interface build on the principle of popular mobile applications for brain pumping. 
+
+Games:
+ - Calculator: Arithmetic expressions that need to be calculated
+ - Progression: Search for missing numbers in a sequence of numbers
+ - Determination of an even number
+ - Determination of the greatest common divisor
+ - Determination of a prime number
+
+You can find more details in the demonstration section below.
 
 ###### system requirements:
 
@@ -52,7 +61,7 @@ $ brain-progression
 $ brain-prime
 ```
 
-### Demonstration
+### Usage demonstration
 
 ###### brain-even (demo)
 
